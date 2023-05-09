@@ -1,3 +1,5 @@
-# hello-world
-this is my first github project
-my name is lijie, I am very happy because I am using github.
+## 中国矿业大学计算机学院往届考研分享（初试及复试）| 持续更新
+欢迎大家考取
+# 初始经验
+
+# 复试经验
